@@ -113,6 +113,11 @@ blockquote {
   line-height: 1.5;
 }
 
+/* Dotted red border */
+hr.line {
+  border-top: 1px dotted black;
+}
+
 figcaption {
   margin-top: 5px;
   color: rgba(0, 0, 0, 0.54);
@@ -1200,8 +1205,8 @@ BUTTON
   background-size: cover;
 }
 
-.section-2.page-header.image.header-team {
-  background-image: url('../images/alex-kotliarskyi-361081-unsplash.jpg');
+.section-2.page-header.image.header-eventManagement {
+  background-image: url('../images/eventManagement.webp');
   background-size: cover;
 }
 
@@ -1826,6 +1831,14 @@ BUTTON
 
 .fa-icon.ondark {
   color: #fff;
+}
+
+.fa-icon.fbColour {
+  color: #4267B2;
+}
+
+.fa-icon.YoutubeColour {
+  color: #FF0000;
 }
 
 .wrapper-2 {
