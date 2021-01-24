@@ -7,7 +7,8 @@ document.write(`
 	  <a href="about-us.html" class="nav-link w-nav-link">About Us</a>
 	  <a href="Event-Management.html" class="nav-link w-nav-link">Event Management</a>
 	  <a href="Digital-Marketing.html" class="nav-link w-nav-link">Talents</a>
-	  <a href="Talents.html" class="nav-link w-nav-link">Digital Marketing</a>	  <a href="portfolio.html" class="nav-link w-nav-link">Work</a>
+    <a href="Talents.html" class="nav-link w-nav-link">Digital Marketing</a>	  
+    <a href="portfolio.html" class="nav-link w-nav-link">Work</a>
     <div class="nav-cta-button-container">
       <a href="contact-us.html" class="nav-link-2 border cta w-nav-link">Contact Us</a>
     </div>
