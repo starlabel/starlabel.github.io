@@ -18,17 +18,16 @@ document.write(`
         <div class="col-2 lg-2 sm-6">
           <div class="footer-links-container">
             <h5 class="footer-heading"><a href="#" class="no-underline">Company</a></h5>
-            <a href="#" class="footer-link ondark">About Us</a>
-            <a href="#" class="footer-link ondark">Our Partners </a>
-            <a href="#" class="footer-link ondark">Work </a>
+            <a href="about-us.html" class="footer-link ondark">About Us</a>
+            <a href="portfolio.html" class="footer-link ondark">Work </a>
             </div>
         </div>
         <div class="col-2 lg-2 sm-6">
           <div class="footer-links-container">
             <h5 class="footer-heading"><a href="#" class="no-underline">Our Services</a></h5>
-            <a href="#" class="footer-link ondark">Event Management</a>
-            <a href="#" class="footer-link ondark">Digital Marketing</a>
-            <a href="#" class="footer-link ondark">Talents</a>
+            <a href="Event-Management.html" class="footer-link ondark">Event Management</a>
+            <a href="Digital-Marketing.html" class="footer-link ondark">Digital Marketing</a>
+            <a href="Talents.html" class="footer-link ondark">Talents</a>
             </div>
         </div>
 
