@@ -2,7 +2,7 @@ document.write(`
 <div class="section section-footer">
     <div class="wrapper">
       <div class="row-2">
-        <div class="col-2 lg-3 md-4"><a href="#" data-ix="logo" class="footer-logo-2 w-nav-brand">
+        <div class="col-2 lg-3 md-4"><a href="index.html" data-ix="logo" class="footer-logo-2 w-nav-brand">
         <img src="images/starLabel_white.svg" width="300" alt=""></a>
           <p class="ondark">Star Label is a Hong Kong-registered event management and entertainment company.  With years of experience in organizing large-scale entertainment projects, brand promotion activities, concerts, TV commercials, press conferences and new launch event, etc.</p>
         </div>
