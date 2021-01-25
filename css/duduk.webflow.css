@@ -1210,6 +1210,11 @@ BUTTON
   background-size: cover;
 }
 
+.section-2.page-header.image.header-digitalMarketing {
+  background-image: url('../images/Digital-marketing.jpg');
+  background-size: cover;
+}
+
 .section-2.page-header.image.header-single-portfolio {
   background-image: url('../images/matt-saling-212458-unsplash.jpg');
   background-position: 50% 0%;

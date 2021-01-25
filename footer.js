@@ -7,6 +7,8 @@ document.write(`
           <p class="ondark">Star Label is a Hong Kong-registered event management and entertainment company.  With years of experience in organizing large-scale entertainment projects, brand promotion activities, concerts, TV commercials, press conferences and new launch event, etc.</p>
         </div>
 
+        
+
         <!-- <div class="col-2 lg-2 sm-6">
           <div class="footer-links-container">
             <h5 class="footer-heading"><a href="#" class="no-underline">Our Work</a></h5>
@@ -57,7 +59,17 @@ document.write(`
           </div>
         </div>
         <div class="col-2 lg-2 md-4"></div>
+        
       </div>
+     
     </div>
+
+    <div class="footer-links-container" style="padding-left: 30px;">
+      <h5>
+      © 2021 by Star Label International Entertainment Co. Limited
+      </h5>
+    </div>
+
+   
   </div>
 `);
