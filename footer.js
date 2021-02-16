@@ -36,7 +36,7 @@ document.write(`
             </div>
         </div>
 
-        <div class="col-2 lg-2">
+        <div class="col-2 lg-2 sm-6">
           <div class="footer-links-container">
           <h5 class="footer-heading"><a href="#" class="no-underline">Hong Kong Office</a></h5>
           <p class="footer-paragraph">Flat 601, <Br> 6/F, Pacific Trade Centre, <br> 2 Kai Hing Road, Kowloon Bay, <br>Hong Kong </p>
@@ -44,7 +44,7 @@ document.write(`
           </div>
         </div>
 
-        <div class="col-2 lg-2">
+        <div class="col-2 lg-2 sm-6">
           <div class="footer-links-container">
             <h5 class="footer-heading"><a href="#" class="no-underline">China Office</a></h5>
             <p class="footer-paragraph"> Rm 602, <br>11 Xingang Xi Road, <br>Fuli Qianxi Commercial Building, <br>Guangzhou, <br>Greater Bay Area, RPC</p>
