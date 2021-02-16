@@ -24,7 +24,7 @@ document.write(`
           <div class="footer-links-container">
             <h5 class="footer-heading"><a href="#" class="no-underline">Company</a></h5>
             <a href="about-us.html" class="footer-link ondark">About Us</a>
-            <a href="portfolio.html" class="footer-link ondark">Work </a>
+            <a href="portfolio.html" class="footer-link ondark">Client </a>
             </div>
         </div>
         <div class="col-2 lg-2 sm-6">
