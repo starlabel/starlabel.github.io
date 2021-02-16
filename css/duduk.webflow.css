@@ -1120,7 +1120,7 @@ BUTTON
   -webkit-box-flex: 0;
   -webkit-flex: 0 250px;
   -ms-flex: 0 250px;
-  flex: 0 250px;
+  flex: 0 350px;
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.13);
@@ -1139,6 +1139,16 @@ BUTTON
 }
 
 .award-cards.movedown150 {
+  position: relative;
+  top: 150px;
+}
+
+.award-cards.movedown200 {
+  position: relative;
+  top: 200px;
+}
+
+.award-cards.movedown250 {
   position: relative;
   top: 150px;
 }

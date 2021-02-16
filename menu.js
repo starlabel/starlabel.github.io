@@ -4,13 +4,13 @@ document.write(`
       <div class="logo-area"><a href="index.html" class="nav-logo w-inline-block"><img src="images/duduk.svg" width="200" alt=""></a></div>
 	  <nav role="navigation" class="nav-menu-2 w-nav-menu">
 	  <a href="index.html" class="nav-link w-nav-link w--current ">Home</a>
-	  <a href="about-us.html" class="nav-link w-nav-link">About Us</a>
+	  <a href="about-us.html" class="nav-link w-nav-link">About</a>
 	  <a href="Event-Management.html" class="nav-link w-nav-link">Event Management</a>
 	  <a href="Talents.html" class="nav-link w-nav-link">Talents</a>
     <a href="Digital-Marketing.html" class="nav-link w-nav-link">Digital Marketing</a>	  
     <a href="portfolio.html" class="nav-link w-nav-link">Work</a>
     <div class="nav-cta-button-container">
-      <a href="contact-us.html" class="nav-link-2 border cta w-nav-link">Contact Us</a>
+      <a href="contact-us.html" class="nav-link-2 border cta w-nav-link">Contact</a>
     </div>
     <a target="_blank" href="https://www.facebook.com/starlabelgroup" class="social-media-link w-inline-block">
               <div class="fa-icon fbColour"></div>

@@ -1,6 +1,9 @@
 document.write(`
 <div class="section section-footer">
     <div class="wrapper">
+
+
+
       <div class="row-2">
         <div class="col-2 lg-3 md-4"><a href="index.html" data-ix="logo" class="footer-logo-2 w-nav-brand">
         <img src="images/starLabel_white.svg" width="300" alt=""></a>
@@ -58,17 +61,16 @@ document.write(`
             
           </div>
         </div>
-        <div class="col-2 lg-2 md-4"></div>
         
+        <h5 style="padding-left:15px;">
+        © 2021 by Star Label International Entertainment Co. Limited
+        </h5>
       </div>
+     
      
     </div>
 
-    <div class="footer-links-container" style="padding-left: 30px;">
-      <h5>
-      © 2021 by Star Label International Entertainment Co. Limited
-      </h5>
-    </div>
+
 
    
   </div>
