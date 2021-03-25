@@ -5,7 +5,7 @@ document.write(`
 	  <nav role="navigation" class="nav-menu-2 w-nav-menu">
 	  <a href="index_zh.html" class="nav-link w-nav-link w--current ">主頁</a>
 	  <a href="about-us_zh.html" class="nav-link w-nav-link">關於我們</a>
-	  <a href="Event-Management_zh.html" class="nav-link w-nav-link">活動管理</a>
+	  <a href="Event-Management_zh.html" class="nav-link w-nav-link">活動策劃</a>
 	  <a href="Talents_zh.html" class="nav-link w-nav-link">人才</a>
     <a href="Digital-Marketing_zh.html" class="nav-link w-nav-link">數碼營銷</a>	  
     <a href="portfolio_zh.html" class="nav-link w-nav-link">客戶</a>
