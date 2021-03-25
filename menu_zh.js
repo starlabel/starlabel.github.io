@@ -3,17 +3,16 @@ document.write(`
     <div class="wrapper navbar-2 w-container">
       <div class="logo-area"><a href="index.html" class="nav-logo w-inline-block"><img src="images/duduk.svg" width="200" alt=""></a></div>
 	  <nav role="navigation" class="nav-menu-2 w-nav-menu">
-	  <a href="index.html" class="nav-link w-nav-link w--current ">Home</a>
-	  <a href="about-us.html" class="nav-link w-nav-link">About</a>
-	  <a href="Event-Management.html" class="nav-link w-nav-link">Event Management</a>
-	  <a href="Talents.html" class="nav-link w-nav-link">Talents</a>
-    <a href="Digital-Marketing.html" class="nav-link w-nav-link">Digital Marketing</a>	  
-    <a href="portfolio.html" class="nav-link w-nav-link">Clients</a>
+	  <a href="index_zh.html" class="nav-link w-nav-link w--current ">主頁</a>
+	  <a href="about-us_zh.html" class="nav-link w-nav-link">關於我們</a>
+	  <a href="Event-Management_zh.html" class="nav-link w-nav-link">活動管理</a>
+	  <a href="Talents_zh.html" class="nav-link w-nav-link">人才</a>
+    <a href="Digital-Marketing_zh.html" class="nav-link w-nav-link">數碼營銷</a>	  
+    <a href="portfolio_zh.html" class="nav-link w-nav-link">客戶</a>
     | <a href="index.html" class="nav-link w-nav-link">en</a> 
     <a href="index_zh.html" class="nav-link w-nav-link">繁</a> 
-
     <div class="nav-cta-button-container">
-      <a href="contact-us.html" class="nav-link-2 border cta w-nav-link">Contact</a>
+      <a href="contact-us_zh.html" class="nav-link-2 border cta w-nav-link">聯絡我們</a>
     </div>
     <a target="_blank" href="https://www.facebook.com/starlabelgroup" class="social-media-link w-inline-block">
               <div class="fa-icon fbColour"></div>
