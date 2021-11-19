@@ -8,8 +8,10 @@
     <h2>Chatbot for StarLabel Entertainment Limited</h2>
   
     <script SameSite="None; Secure" src="https://static.landbot.io/landbot-3/landbot-3.0.0.js"></script>
+    <div id="myLandbot" style="width: 100%; height: 800px"></div>
     <script>
-      var myLandbot = new Landbot.Fullpage({
+      var myLandbot = new Landbot.Container({
+        container: '#myLandbot',
         configUrl: 'https://chats.landbot.io/v3/H-1050052-96BMRIK7ZZD8PLCG/index.json',
       });
     </script>
